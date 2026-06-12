@@ -4,7 +4,7 @@
 
 ### 🚀 AI/ML Engineer | Full Stack Developer | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI%2FML+Researcher;Full+Stack+Developer;Building+Scalable+Applications;Passionate+about+Technology+and+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI%2FML+Researcher;Full+Stack+Developer;500%2B+DSA+Problems+Solved;Published+Research+Author;Building+Scalable+Applications;Future+Software+Engineer" />
 
 </div>
 
@@ -16,15 +16,17 @@
 
 💡 Passionate about **Artificial Intelligence, Machine Learning, Full-Stack Development, and Software Engineering**
 
-🔭 Currently working on **StageMamba – Eye Disease Diagnosis using Deep Learning**
+🧠 Solved **500+ DSA Problems** across coding platforms
 
-🌱 Learning advanced **System Design, DSA, Cloud Technologies, and AI Engineering**
+🏆 Secured **TS ECET Rank 44**
 
-🏆 TS ECET Rank **44**
+📄 Published Research Paper at **IHCI 2025**
 
-📄 Published Research Paper in **IHCI 2025**
+🔭 Currently building **AI-powered and scalable full-stack applications**
 
-⚡ Love building products that solve real-world problems
+🌱 Learning **System Design, Advanced DSA, Cloud Computing, and AI Engineering**
+
+⚡ Goal: **Become a Software Engineer who combines AI innovation with scalable product development**
 
 ---
 
@@ -40,27 +42,41 @@
 </a>
 
 <a href="https://github.com/BiradarOmkar">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/omkarbiradar-030_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
 
 ---
 
+# 🏆 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/omkarbiradar-030_/)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,cpp,python,c,javascript" />
 </p>
 
-### Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript" />
 </p>
 
-### Backend Development
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
@@ -81,10 +97,10 @@
 * NumPy
 * OpenCV
 
-### Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -93,9 +109,9 @@
 
 ## 🎓 VEDA – Remote Classroom Platform
 
-A low-bandwidth educational platform designed for students in rural and connectivity-constrained regions.
+A low-bandwidth educational platform designed to improve accessibility for students in rural and connectivity-constrained regions.
 
-### Key Features
+### Highlights
 
 ✅ Role-Based Dashboards
 
@@ -111,51 +127,39 @@ A low-bandwidth educational platform designed for students in rural and connecti
 
 **Tech Stack**
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+`React.js` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
 
 ---
 
 ## 💻 SyncPad – Real-Time Technical Interview Platform
 
-A full-stack collaborative coding interview platform.
+A collaborative coding interview platform enabling seamless technical assessments.
 
-### Key Features
+### Highlights
 
-✅ Live Coding Environment
+✅ Real-Time Code Collaboration
 
 ✅ Video Communication
 
-✅ Real-Time Collaboration
+✅ Live Chat
 
-✅ Interview Rooms
-
-✅ Chat System
+✅ Session-Based Interview Rooms
 
 ✅ Secure Authentication
 
 **Tech Stack**
 
-`React.js`
-
-`Node.js`
-
-`MongoDB`
-
-`Liveblocks`
-
-`LiveKit`
-
-`JWT`
+`React.js` • `Node.js` • `MongoDB` • `Liveblocks` • `LiveKit` • `JWT`
 
 ---
 
 ## 👁️ StageMamba – Eye Disease Classification
 
-Deep Learning-based multi-class retinal disease diagnosis system.
+Deep Learning based multi-class retinal disease diagnosis system.
 
 ### Research Highlights
 
-🏆 Published Research Paper
+📄 Published Research Paper (IHCI 2025)
 
 🎯 10-Class Eye Disease Classification
 
@@ -163,23 +167,40 @@ Deep Learning-based multi-class retinal disease diagnosis system.
 
 📊 MCC Score: **0.9015**
 
-🔬 Tested Multiple Architectures
+🔬 Experimented With:
 
 * ResNet
 * VGG
 * DenseNet
 * EfficientNet-B4
-* StageMamba
+* StageMamba Architecture
 
 **Tech Stack**
 
-`Python`
+`Python` • `PyTorch` • `TensorFlow` • `Deep Learning`
 
-`PyTorch`
+---
 
-`TensorFlow`
+# 💻 LeetCode Journey
 
-`Deep Learning`
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/omkarbiradar-030_?theme=dark&font=Nunito&ext=contest" />
+
+</div>
+
+### DSA Focus
+
+* Arrays & Hashing
+* Binary Search
+* Linked Lists
+* Trees & BST
+* Graphs
+* Dynamic Programming
+* Greedy Algorithms
+* Backtracking
+* Sliding Window
+* Problem Solving Patterns
 
 ---
 
@@ -195,7 +216,7 @@ Deep Learning-based multi-class retinal disease diagnosis system.
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -207,25 +228,32 @@ Deep Learning-based multi-class retinal disease diagnosis system.
 
 # 🏅 Experience
 
-### Web Development Intern — Niltech Edu
+### Web Development Intern | Niltech Edu
 
-* Worked on MERN Stack projects
+* Worked on MERN stack projects
 * Developed frontend and backend modules
-* Managed databases and APIs
+* Managed APIs and databases
+* Collaborated on real-world web applications
 
-### AI & Cloud Intern — IBM SkillsBuild (Edunet Foundation)
+### AI & Cloud Intern | IBM SkillsBuild (Edunet Foundation)
 
-* Artificial Intelligence Fundamentals
-* Cloud Computing Concepts
-* Hands-on AI Projects
+* Worked on AI and Cloud Computing fundamentals
+* Built AI-focused practical projects
+* Gained exposure to IBM Cloud technologies
 
 ---
 
-# 🎖 Certifications
+# 🎓 Education
 
-* Salesforce Certified Agentforce Specialist
-* Programming in Java – Infosys Springboard
-* AI Primer – Infosys Springboard
+### B.E. Computer Science Engineering
+
+**CBIT, Hyderabad**
+2024 – 2027 | GPA: **9.0/10**
+
+### Diploma in Computer Engineering
+
+**Government Polytechnic, Hyderabad**
+2021 – 2024 | GPA: **9.75/10**
 
 ---
 
@@ -233,42 +261,53 @@ Deep Learning-based multi-class retinal disease diagnosis system.
 
 🥇 TS ECET Rank 44
 
-🏅 Special Mention – CBIT Hacktoberfest Hackathon
-
 📄 Research Publication at IHCI 2025
 
-🎯 GPA 9.0 (B.E. CSE)
+🏅 Special Mention – CBIT Hacktoberfest Hackathon
 
-⭐ GPA 9.75 (Diploma)
+🎓 GPA 9.75 in Diploma
+
+🎓 GPA 9.0 in B.E.
 
 ---
 
-## 📈 Current Focus
+# 📜 Certifications
+
+* Salesforce Certified Agentforce Specialist
+* Programming in Java – Infosys Springboard
+* AI Primer – Infosys Springboard
+
+---
+
+# 🎯 Current Focus
 
 ```text
 ✔ Data Structures & Algorithms
-✔ Software Engineering
+✔ Full Stack Development
 ✔ Machine Learning
 ✔ Deep Learning Research
-✔ Full Stack Development
 ✔ System Design
 ✔ Cloud Technologies
+✔ Software Engineering
+✔ Open Source Contributions
 ```
 
 ---
 
-## 💭 Developer Philosophy
+# 💭 Developer Philosophy
 
 > "Technology becomes meaningful when it solves real problems for real people."
 
-I enjoy building scalable software, researching AI solutions, and continuously learning new technologies that create impact.
+I enjoy building scalable software products, solving algorithmic challenges, and researching AI solutions that create measurable impact.
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories!
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=BiradarOmkar&label=Profile+Views&color=0e75b6&style=flat" />
+
+#### 🚀 Building Today for a Smarter Tomorrow
 
 </div>
