@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&color=0d9373"/>
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20S-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-red?style=for-the-badge"/>
 </p>
 
