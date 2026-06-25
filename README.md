@@ -379,7 +379,7 @@ I approach problems by understanding root causes, designing scalable solutions, 
 ### 🚀 Open to Opportunities
 
 I'm actively exploring roles in:
-- **Software Engineer** (L3/L4+)
+- **Software Engineer** 
 - **ML/AI Engineer**
 - **Full Stack Engineer**  
 - **Systems Engineer**
