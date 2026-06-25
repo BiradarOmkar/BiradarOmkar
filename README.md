@@ -1,313 +1,204 @@
-# Hi 👋, I'm Omkar Biradar
+# Omkar Biradar
+
+**Software Engineer | AI/ML Specialist | Full Stack Developer**
+
+Building scalable systems that combine AI innovation with production-grade engineering.
+
+---
+
+## About
+
+I'm a Computer Science engineer specializing in AI/ML systems and full-stack development. I have published research in deep learning architecture design, built production features across web and AI domains, and solved 500+ algorithmic problems at scale. Focused on building systems that deliver measurable impact.
+
+**Key Highlights**
+- **500+ DSA Problems**: Demonstrated mastery across all major algorithmic patterns (graphs, DP, system design)
+- **Published Research**: IHCI 2025 (Springer) — StageMamba, a CNN-Mamba hybrid for medical imaging classification
+- **Production Experience**: MERN stack at Niltech Edu; AI/Cloud systems at IBM SkillsBuild
+- **Strong Fundamentals**: 9.75 GPA Diploma, 9.08 GPA B.E., TS ECET Rank 44
+- **Salesforce Certified**: Agentforce Specialist (enterprise AI automation)
+
+Currently exploring **system design**, **advanced DSA**, and **AI engineering** patterns used in large-scale systems.
+
+---
+
+## Technical Skills
+
+**Languages**  
+Java · C++ · Python · C · JavaScript
+
+**Frontend**  
+React.js · HTML5 · CSS3 · Tailwind CSS
+
+**Backend**  
+Node.js · Express.js · RESTful APIs · Authentication & Authorization
+
+**Databases**  
+MongoDB · MySQL · Database Design · Query Optimization
+
+**AI / Machine Learning**  
+PyTorch · TensorFlow · Deep Learning · Computer Vision · CNN Architectures · Scikit-Learn · Pandas · NumPy · OpenCV
+
+**Cloud & Tools**  
+Git · GitHub · VS Code · Postman · IBM Cloud · AWS fundamentals
+
+---
+
+## Featured Projects
+
+### StageMamba – Deep Learning for Retinal Disease Classification
+
+**Problem**: Automated diagnosis of retinal diseases using medical imaging requires robust, interpretable models that balance accuracy with computational efficiency.
+
+**Solution**: Engineered a hybrid CNN-Mamba architecture combining EfficientNet-B4 backbone with attention-based VSSMamba blocks for multi-class classification across 10 retinal pathologies.
+
+**Technical Achievements**
+- Designed and trained deep learning pipeline end-to-end using PyTorch
+- Implemented EfficientNet-B4 feature extraction with multi-level fusion strategy
+- Integrated attention mechanisms (VSSMamba blocks) for interpretable feature learning
+- Optimized training with Focal Loss for class imbalance and AdamW with cosine annealing scheduler
+- Comprehensive ablation studies comparing ResNet, VGG, DenseNet, and EfficientNet backbones
+
+**Results & Impact**
+- **Accuracy**: 90.03% across 10-class classification task
+- **Matthews Correlation Coefficient**: 0.9015 (strong balanced performance)
+- **Publication**: Accepted and presented at IHCI 2025 (Springer), peer-reviewed venue
+
+**Tech Stack**: Python · PyTorch · TensorFlow · CUDA · Kaggle · Deep Learning
+
+---
+
+### SyncPad – Real-Time Collaborative Technical Interview Platform
+
+**Problem**: Technical interviews require synchronized code execution, real-time communication, and secure session management across distributed candidates and interviewers.
+
+**Solution**: Built a full-stack platform enabling live coding collaboration with video/audio, providing interview proctoring and assessment infrastructure.
+
+**Technical Achievements**
+- Architected real-time code synchronization using Liveblocks (CRDT-based conflict resolution)
+- Integrated LiveKit for WebRTC-based video/audio communication
+- Designed session-based interview room architecture with secure routing
+- Implemented role-based access control (interviewer/candidate) with JWT authentication
+- Built responsive React frontend with real-time state management
+- Deployed Node.js backend handling concurrent WebSocket connections
+
+**Features**
+- Live code collaboration with instant sync across multiple editors
+- Crystal-clear video/audio communication with bandwidth optimization
+- Persistent chat for asynchronous feedback during sessions
+- Secure interview room isolation and access control
+- Session history and recording capabilities
+
+**Tech Stack**: React.js · Node.js · Express.js · MongoDB · Liveblocks · LiveKit · JWT · WebSockets
+
+---
+
+### VEDA – Bandwidth-Optimized Remote Learning Platform
+
+**Problem**: Students in rural and connectivity-constrained regions face barriers to remote education due to bandwidth limitations and lack of offline access.
+
+**Solution**: Engineered a full-stack educational platform prioritizing audio-first interaction, adaptive bitrate streaming, and offline content delivery for inclusive learning.
+
+**Technical Achievements**
+- Designed role-based dashboard architecture for students, teachers, and administrators
+- Implemented audio-first learning interface with transcript generation for accessibility
+- Built offline content synchronization with service workers and IndexedDB caching
+- Engineered adaptive streaming with bandwidth detection and bitrate adjustment
+- Implemented multilingual support with i18n framework
+- Designed slide synchronization mechanism for distributed classroom sessions
+
+**Features**
+- Low-bandwidth audio lectures with synchronized slide delivery
+- Offline access to downloaded course materials
+- Role-based dashboards for personalized learning paths
+- Adaptive video streaming (auto-scaling resolution based on connection speed)
+- Multilingual interface supporting regional languages
+- Real-time slide synchronization across student devices
+
+**Impact**: Designed for scale to serve students in regions with 2G/3G connectivity while maintaining feature parity.
+
+**Tech Stack**: React.js · Node.js · Express.js · MongoDB · Tailwind CSS · Service Workers · WebRTC
+
+---
+
+## Experience
+
+**Web Development Intern** | Niltech Edu  
+*January – March 2025*
+- Developed full-stack MERN features for educational platform
+- Implemented RESTful APIs with proper error handling and validation
+- Designed and optimized MongoDB schemas for scalability
+- Collaborated cross-functionally on feature requirements and bug fixes
+
+**AI & Cloud Engineering** | IBM SkillsBuild (Edunet Foundation)  
+*June 2025*
+- Built practical AI/ML projects using TensorFlow and scikit-learn
+- Gained hands-on experience with IBM Cloud services and deployment patterns
+- Explored cloud-native architectures for AI model serving
+
+---
+
+## Education
+
+**B.E. Computer Science Engineering**  
+CBIT, Hyderabad | 2024 – 2027 | GPA: 9.08/10
+
+**Diploma in Computer Engineering**  
+Government Polytechnic, Hyderabad | 2021 – 2024 | GPA: 9.75/10
+
+---
+
+## Achievements
+
+- **TS ECET Rank 44**: Top 0.1% in state engineering entrance examination
+- **Published Researcher**: IHCI 2025 (Springer) — StageMamba architecture paper
+- **500+ DSA Problems**: LeetCode and competitive programming mastery
+- **Special Mention**: CBIT Hacktoberfest Hackathon
+- **Academic Excellence**: 9.75 GPA (Diploma), 9.08 GPA (B.E.)
+- **Salesforce Certified**: Agentforce Specialist (enterprise AI automation)
+
+---
+
+## Certifications
+
+- Salesforce Certified Agentforce Specialist
+- Programming in Java – Infosys Springboard
+- AI Primer – Infosys Springboard
+
+---
+
+## Coding Profiles
+
+- **LeetCode**: [omkarbiradar-030_](https://leetcode.com/u/omkarbiradar-030_/) — 500+ problems solved
+- **GitHub**: [BiradarOmkar](https://github.com/BiradarOmkar) — Full project portfolio
+- **Email**: omkarbiradar266@gmail.com
+- **LinkedIn**: [linkedin.com/in/BiradarOmkar](https://linkedin.com/in/BiradarOmkar)
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-### 🚀 AI/ML Engineer | Full Stack Developer | Problem Solver
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BiradarOmkar&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI%2FML+Researcher;Full+Stack+Developer;500%2B+DSA+Problems+Solved;Published+Research+Author;Building+Scalable+Applications;Future+Software+Engineer" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiradarOmkar&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Engineering Philosophy
 
-🎓 Computer Science Engineering Student at **CBIT Hyderabad**
+> "Strong fundamentals + deliberate practice + systematic problem-solving = sustainable engineering impact."
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Full-Stack Development, and Software Engineering**
-
-🧠 Solved **500+ DSA Problems** across coding platforms
-
-🏆 Secured **TS ECET Rank 44**
-
-📄 Published Research Paper at **IHCI 2025**
-
-🔭 Currently building **AI-powered and scalable full-stack applications**
-
-🌱 Learning **System Design, Advanced DSA, Cloud Computing, and AI Engineering**
-
-⚡ Goal: **Become a Software Engineer who combines AI innovation with scalable product development**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="mailto:omkarbiradar266@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/BiradarOmkar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/BiradarOmkar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/omkarbiradar-030_/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-</p>
-
----
-
-# 🏆 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/omkarbiradar-030_/)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,c,javascript" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-**Libraries & Frameworks**
-
-* PyTorch
-* TensorFlow
-* Scikit-Learn
-* Pandas
-* NumPy
-* OpenCV
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🎓 VEDA – Remote Classroom Platform
-
-A low-bandwidth educational platform designed to improve accessibility for students in rural and connectivity-constrained regions.
-
-### Highlights
-
-✅ Role-Based Dashboards
-
-✅ Audio-First Learning
-
-✅ Offline Content Access
-
-✅ Slide Synchronization
-
-✅ Adaptive Streaming
-
-✅ Multilingual Support
-
-**Tech Stack**
-
-`React.js` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
-
----
-
-## 💻 SyncPad – Real-Time Technical Interview Platform
-
-A collaborative coding interview platform enabling seamless technical assessments.
-
-### Highlights
-
-✅ Real-Time Code Collaboration
-
-✅ Video Communication
-
-✅ Live Chat
-
-✅ Session-Based Interview Rooms
-
-✅ Secure Authentication
-
-**Tech Stack**
-
-`React.js` • `Node.js` • `MongoDB` • `Liveblocks` • `LiveKit` • `JWT`
-
----
-
-## 👁️ StageMamba – Eye Disease Classification
-
-Deep Learning based multi-class retinal disease diagnosis system.
-
-### Research Highlights
-
-📄 Published Research Paper (IHCI 2025)
-
-🎯 10-Class Eye Disease Classification
-
-📈 Accuracy: **90.03%**
-
-📊 MCC Score: **0.9015**
-
-🔬 Experimented With:
-
-* ResNet
-* VGG
-* DenseNet
-* EfficientNet-B4
-* StageMamba Architecture
-
-**Tech Stack**
-
-`Python` • `PyTorch` • `TensorFlow` • `Deep Learning`
-
----
-
-# 💻 LeetCode Journey
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/omkarbiradar-030_?theme=dark&font=Nunito&ext=contest" />
-
-</div>
-
-### DSA Focus
-
-* Arrays & Hashing
-* Binary Search
-* Linked Lists
-* Trees & BST
-* Graphs
-* Dynamic Programming
-* Greedy Algorithms
-* Backtracking
-* Sliding Window
-* Problem Solving Patterns
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiradarOmkar&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiradarOmkar&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BiradarOmkar&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏅 Experience
-
-### Web Development Intern | Niltech Edu
-
-* Worked on MERN stack projects
-* Developed frontend and backend modules
-* Managed APIs and databases
-* Collaborated on real-world web applications
-
-### AI & Cloud Intern | IBM SkillsBuild (Edunet Foundation)
-
-* Worked on AI and Cloud Computing fundamentals
-* Built AI-focused practical projects
-* Gained exposure to IBM Cloud technologies
-
----
-
-# 🎓 Education
-
-### B.E. Computer Science Engineering
-
-**CBIT, Hyderabad**
-2024 – 2027 | GPA: **9.0/10**
-
-### Diploma in Computer Engineering
-
-**Government Polytechnic, Hyderabad**
-2021 – 2024 | GPA: **9.75/10**
-
----
-
-# 🏆 Achievements
-
-🥇 TS ECET Rank 44
-
-📄 Research Publication at IHCI 2025
-
-🏅 Special Mention – CBIT Hacktoberfest Hackathon
-
-🎓 GPA 9.75 in Diploma
-
-🎓 GPA 9.0 in B.E.
-
----
-
-# 📜 Certifications
-
-* Salesforce Certified Agentforce Specialist
-* Programming in Java – Infosys Springboard
-* AI Primer – Infosys Springboard
-
----
-
-# 🎯 Current Focus
-
-```text
-✔ Data Structures & Algorithms
-✔ Full Stack Development
-✔ Machine Learning
-✔ Deep Learning Research
-✔ System Design
-✔ Cloud Technologies
-✔ Software Engineering
-✔ Open Source Contributions
-```
-
----
-
-# 💭 Developer Philosophy
-
-> "Technology becomes meaningful when it solves real problems for real people."
-
-I enjoy building scalable software products, solving algorithmic challenges, and researching AI solutions that create measurable impact.
+I approach problems by understanding root causes, designing scalable solutions, and iterating based on real-world constraints. Whether building AI systems or distributed platforms, I focus on clarity, reliability, and measurable outcomes.
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Let's Build Something Meaningful
 
-<img src="https://komarev.com/ghpvc/?username=BiradarOmkar&label=Profile+Views&color=0e75b6&style=flat" />
-
-#### 🚀 Building Today for a Smarter Tomorrow
+[Email](mailto:omkarbiradar266@gmail.com) · [LinkedIn](https://linkedin.com/in/BiradarOmkar) · [GitHub](https://github.com/BiradarOmkar) · [LeetCode](https://leetcode.com/u/omkarbiradar-030_/)
 
 </div>
