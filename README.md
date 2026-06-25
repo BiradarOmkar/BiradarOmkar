@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&color=0d9373"/>
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20System%20Design-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20S-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-red?style=for-the-badge"/>
 </p>
 
@@ -31,7 +31,6 @@ I'm a Computer Science engineer specializing in AI/ML systems and full-stack dev
 ### 🎯 Core Competencies
 
 ![Python](https://img.shields.io/badge/AI%2FML-Expert-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-Advanced-4ECDC4?style=flat-square&logo=adobexd&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-MERN-95E1D3?style=flat-square&logo=react&logoColor=white)
 ![Research](https://img.shields.io/badge/Published%20Research-IHCI%202025-6C5CE7?style=flat-square&logo=bookstack&logoColor=white)
 
