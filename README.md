@@ -10,6 +10,12 @@
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-red?style=for-the-badge"/>
 </p>
 
+<p>
+  <a href="https://linkedin.com/in/BiradarOmkar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:omkarbiradar266@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/BiradarOmkar"><img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 ---
 
 </div>
@@ -379,7 +385,7 @@ I approach problems by understanding root causes, designing scalable solutions, 
 ### 🚀 Open to Opportunities
 
 I'm actively exploring roles in:
-- **Software Engineer** 
+- **Software Engineer** (L3/L4+)
 - **ML/AI Engineer**
 - **Full Stack Engineer**  
 - **Systems Engineer**
